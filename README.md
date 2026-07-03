@@ -35,6 +35,18 @@ launch even begins.
 | Patient assistance | Copay cards, PAP free drug | 1-3% of WAC |
 | Net revenue | What the manufacturer keeps | 55-75% of WAC |
 
+
+## Model Assumptions
+
+| Parameter | Value | Notes |
+|---|---|---|
+| WAC per unit | $1,000 | Specialty drug list price |
+| Base volume | 50,000 units/month | Monthly dispensed units at launch |
+| Volume growth | 2% per month | Compound monthly growth |
+| WAC increase | 5% per year | Annual price increase at month 13 |
+| Simulation horizon | 24 months | Rolling two-year model |
+
+
 ---
 
 ## Key Output
